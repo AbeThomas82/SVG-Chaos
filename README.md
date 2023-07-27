@@ -21,7 +21,7 @@ Completed code pushed to GitHub.
 The end user should be able to get the desired SVG logo with text and shape by answering prompts in the CLI.
 
 ## Links
-[Repository] (https://github.com/AbeThomas82/SVG-Chaos)
+[Repository](https://github.com/AbeThomas82/SVG-Chaos)
 
 [ScreenCastify](https://drive.google.com/file/d/1izC7N2i7qFFrirqHE-q4WRcuMiHsVWjt/view)
 
