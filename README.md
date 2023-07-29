@@ -23,15 +23,15 @@ The end user should be able to get the desired SVG logo with text and shape by a
 ## Links
 [Repository](https://github.com/AbeThomas82/SVG-Chaos)
 
-[ScreenCastify](https://drive.google.com/file/d/1izC7N2i7qFFrirqHE-q4WRcuMiHsVWjt/view)
+[ScreenCastify](https://drive.google.com/file/d/1Llw6qweV_S9Npr8Zw-n2CbzPbdwhUYb-/view)
 
 ## Credits
-Shane McElrath and TA's of AskBCS
+Sangeetha Kaliaperumal of Calendly
+
+Shane and Quinton and other TA's of AskBCS
 
 Lee Stevens and other classmates
 
-Sangeetha Kaliaperumal of Calendly
-
 [YouTube](https://youtu.be/emFMHH2Bfvo)
 
-[Stack Overflow]()
+[Stack Overflow](https://stackoverflow.com/questions/22252472/how-can-i-change-the-color-of-an-svg-element)
